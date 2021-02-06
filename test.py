@@ -40,7 +40,7 @@ def affichage(l_donnees):
     plt.legend()
     plt.xlabel("seconds (dépend de la vidéo envoyée mais on trouve ça facile dans les données)")
     plt.ylabel("pixels (osef Debeir ça passe)")
-    plt.show() "sexe"
+    plt.show()
 
 liste = charger("data.csv")
 print(liste)

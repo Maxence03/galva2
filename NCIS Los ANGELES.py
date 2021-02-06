@@ -143,7 +143,7 @@ dico_eleve = points_eleves(dico_matricule_nom, dico_meca, dico_chimie, dico_phys
 #print(trouver_nom(dico_matricule_nom,))
 
 #Entrée : 'Prénom NOM'
-nom_eleve = 'Nicolas DERIDER'
+nom_eleve = 'Alexandre LE MERCIER'
 
 #trouver le matricule d'un élève. Entrée : 'Prénom NOM'
 print(trouver_matricule(dico_nom_matricule, nom_eleve ))
